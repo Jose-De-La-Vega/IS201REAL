@@ -1,0 +1,62 @@
+
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+    background-color: rgba(242, 242, 9, 0.591);
+    }
+
+.itl{
+    font-style: italic;
+}
+
+.bold{
+    font-style: normal;
+    font-weight: bold;
+}
+
+.h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+.color{
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-weight: bold;
+}
+
+.easy{
+    font-style: initial;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
+
+
+ /* for the Div*/
+ .Spikeball{ 
+    top: 10px;
+    margin-left: 650px;
+    margin-right: 650px;
+    height: 100px;
+}
+
+.image{
+    top: 50px;
+    margin-left:1350px;
+    margin-right: 25px;
+    height: 25px;
+}
+
+.center{
+        top: 800px;    
+        margin-left: 500px;
+        margin-right: 650px;
+        bottom: 150px;
+        width: 600px;
+}
+    
+
+
