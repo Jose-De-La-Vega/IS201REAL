@@ -58,5 +58,8 @@ body{
         width: 600px;
 }
     
-
+.style{
+    font-weight: bolder;
+    font-size: 25px;
+}
 
